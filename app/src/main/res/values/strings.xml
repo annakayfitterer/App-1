@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App-1</string>
+    <string name="mainHeaderText">This or That?</string>
+    <string name="questionButton">Send New Question</string>
+    <string name="friendsButton">View Friends</string>
+    <string name="settingsButton">Settings</string>
+    <string name="settingsHeaderText">Settings</string>
+    <string name="friendsHeaderText">Friends</string>
+    <string name="sendQuestionHeaderText">Send New Question</string>
+</resources>
